@@ -10,12 +10,13 @@ AUTHOR:	**Kvc & Anic17**
 
 ​	Examples: 		ReplaceLine "Demo.txt" 5 "This is replaced Line."
 
+----
+
 There are 2 MODES to GET the results...
  MODE 1:	GO INSIDE THE FILE, AND EDIT THAT LINE...
  MODE 2:	REPLACE THAT LINE INSIDE THE FILE...
 
 SYNTAX:
-
 
 ReplaceLine will automatically, select the MODE whichever is faster for your
 Given conditions
@@ -43,4 +44,6 @@ For Example: Replacing "Kvc" with "TheKvc" will invoke Method 2.
 
 NOTE:
 This utility will always choose the most efficient mode to complete the
-required action
+required action.
+
+----

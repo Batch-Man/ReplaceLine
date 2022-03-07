@@ -47,3 +47,4 @@ This utility will always choose the most efficient mode to complete the
 required action.
 
 ----
+Article- https://batch-man.com/manipulate-files-line-in-batch/
